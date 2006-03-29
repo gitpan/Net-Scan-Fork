@@ -1,0 +1,27 @@
+Net-Scan-Fork version 0.01
+==========================
+
+This module provides you a simple way to manage fork processess.
+It would be useful in a multiprocess network/security/etc. scanner.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Sys::CpuLoad
+
+COPYRIGHT AND LICENSE
+
+You may distribute this module under the terms of the Artistic license.
+See Copying file in the source distribution archive.
+
+Copyright (c) 2006, Matteo Cantoni 

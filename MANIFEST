@@ -1,0 +1,7 @@
+Changes
+Copying
+Makefile.PL
+MANIFEST
+README
+t/Net-Scan-Fork.t
+lib/Net/Scan/Fork.pm
